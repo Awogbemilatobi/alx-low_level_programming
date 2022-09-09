@@ -20,7 +20,9 @@ int main(void)
 			for (; digit <= 'f'; digit++)
 			{							
 				putchar(digit);
-			} 										break;									}
+			} 							
+			break;
+		}
 	}
 	putchar('\n');
 	return (0);
