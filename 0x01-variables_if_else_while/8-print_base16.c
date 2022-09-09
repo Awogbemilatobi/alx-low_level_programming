@@ -15,10 +15,11 @@ int main(void)
 	{
 		putchar(digit);
 		if (digit == '9')
-		{								
-			digit = 'a';						
+		{
+			digit = 'a';
 			for (; digit <= 'f'; digit++)
-			{											putchar(digit);
+			{							
+				putchar(digit);
 			} 										break;									}
 	}
 	putchar('\n');
