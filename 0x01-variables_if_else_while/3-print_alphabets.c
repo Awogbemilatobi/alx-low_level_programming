@@ -16,7 +16,7 @@ int main(void)
 		alphabet = tolower(alphabet);
 		putchar(alphabet);
 		if (alphabet == 'z')
-  		{
+		{
 			alphabet = 'A';
 			for (; alphabet <= 'Z'; alphabet++)
 			{
@@ -28,7 +28,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-		
-
-
 
