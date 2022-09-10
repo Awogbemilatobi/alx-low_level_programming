@@ -18,9 +18,9 @@ int main(void)
 		{
 			digit = 'a';
 			for (; digit <= 'f'; digit++)
-			{					
+			{
 				putchar(digit);
-			}							
+			}
 			break;
 		}
 	}
