@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-#include<main.h>
 /**
  * main - main function
  * Description: prints a-z in lowercase
