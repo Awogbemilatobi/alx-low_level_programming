@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - entry point
+ * _isupper - entry point
  *
  * Return: returns 1 or 0
 */
